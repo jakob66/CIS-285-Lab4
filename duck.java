@@ -13,4 +13,9 @@ public class Duck
   {
     System.out.print("THE DUCK SPEAK WITH SUCH ENERGY, HE SAYS: 'quack....'");
   }
+
+  public void func()
+  {
+    System.out.print("hello");
+  }
 }
